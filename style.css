@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    display: flex;
+  
+     height: 39px; 
+    border-radius: 33px;
+    background-color: #12202f;
+    /* margin-top: 50px;  */
+    margin-bottom: 20px;
+}
+.box{
+    height: 200vh;
+    background-color: #ebe3cd;
+    margin: 0 auto;
+    padding-top: 40px; 
+    /* margin-left: 20px;
+     */
+     padding: 40px;
+}
+.logo{
+     margin-top: 10px; 
+    /* margin-left: 50px;  */
+    color: white;
+    margin-left: 30px;
+    /* font-size: 81px; */
+    /* color: #12202f; */
+    font-weight: 900;
+    font-family: "Playfair Display";
+       
+}
+.lamp{
+    margin-left: 1470px;
+    /* margin-top: 10px; */
+}
+.list a{
+    text-decoration: none;
+    color: white;
+    font-family: "Montserrat";
+   /* padding: 150px; */
+   margin-left: 250px;
+ 
+
+
+}
+.list{
+    margin-top: 10px;
+}
+.click{
+    padding-left: 350px;
+    /* margin-top: 2px; */
+    font-size: 17px;
+    line-height: 35px;
+    color: #6bb99c;
+    font-weight: 400;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.row{
+    padding-left: 30px;
+    padding-top: 50px;
+   
+}
+
+.col-1{
+    font-size: 81px;
+color: #12202f;
+font-weight: 900;
+font-family: "Playfair Display";
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.col-2{
+    font-size: 29px;
+    line-height: 40px;
+    color: #12202f;
+    font-weight: 400;
+    font-family: "Montserrat";
+    padding-bottom: 20px;
+}
+.col-3{
+    font-size: 17px;
+/* line-height: 31px; */
+color: #12202f;
+font-weight: 600;
+font-family: "Montserrat";
+text-align: left;
+padding-bottom: 20px;
+}
+.col-4 button{
+    width: 112px;
+    height: 40px;
+    border-radius: 28px;
+    background-color: #df581e;  
+    color: #ebe3cd;
+    border: 0;
+    font-family: "Montserrat";
+    text-align: center;
+    font-size: 21px;
+    
+}
+.col-4 span{
+    font-size: 21px;
+line-height: 33px;
+color: #12202f;
+font-weight: 700;
+font-family: "Montserrat";
+text-align: center;
+padding-left: 20px;
+}
+.col-4 h3{
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+.whiteboard{
+    width: 1528px;
+height: 160px;
+border-radius: 40px;
+filter: drop-shadow(-5.557px 5.755px 0px rgba(150,137,104,0.09));
+background-color: #faf8ef;
+border: 1px solid #ffffff;
+margin-left: 120px;
+}
+/* .whiteboard{
+    margin-left: 30px;
+} */
+ 
